@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\bin\Debug\FileConverterJIO1ToJIO2.exe.config
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\bin\Debug\FileConverterJIO1ToJIO2.exe
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\bin\Debug\FileConverterJIO1ToJIO2.pdb
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.Form1.resources
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.Properties.Resources.resources
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.exe
+C:\Users\Jacob\source\repos\FileConverterJIO1ToJIO2\FileConverterJIO1ToJIO2\obj\Debug\FileConverterJIO1ToJIO2.pdb
